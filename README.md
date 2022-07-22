@@ -1,6 +1,6 @@
 # Krypto-4-Crypto-Trade-Scripts
 
-#Features
+# Features
 More than 2100+ Cryptocurrencies available
 85 Currencies supported
 Live trading
@@ -51,7 +51,7 @@ Free lifetime updates
 24/7 support by email, forum, comments
 <hr>
 
-#Server requirements
+# Server requirements
 PHP 5.6 or more
 PHP Extensions : CURL, PDO, OpenSSL
 VPS / Dedicated server is optional but recommended (else if the script can be slow)
