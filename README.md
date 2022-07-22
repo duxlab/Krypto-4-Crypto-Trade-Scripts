@@ -1,54 +1,56 @@
 # Krypto-4-Crypto-Trade-Scripts
 
 # Features
-More than 2100+ Cryptocurrencies available
-85 Currencies supported
-Live trading
-Get your wallet balance
-Buy / Sell Crypto (Bitcoin, Ethereum, Litecoin) with Market & Limit Mode
-Advanced coin page
-Depth Graph
-Order book
-Private Blockfolio
-Advanced trader chart candlesticks
-Technical indicators fully customizable
-10 technical indicators
-Technical indicators fully customizable (parameters, color, line)
-Coins history data from 1 minute to 5 months
-Live data
-Live trending on chart
-Detailed Market analysis
-News & Social
-Watching list
-Heatmap
-Top movers
-Live market (sell/buy) with market balancing
-Calculator (Cryptocurrency <==> Currencies)
-Up to 6 charts on the dashboard
-9 types of dashboards available
-Notifications on Mobile, Browser, Windows
-Add notifications easy by double clicking on chart
-Notifications center in Krypto
-Subscriptions
-Credit card payment gateway (Stripe)
-Paypal payment
-Customize plans
-Free trial time configuration
-Fully responsive (Mobile, Tablet) and optimized look-alike application on mobile
-Advanced Admin pannel
-Google Analytics easy setup
-Multi-languages ready
-6 Languages already translated (English, French, Russian, Chinese, Latvian, German)
-SHA512 Security encryption
-Google Authenticator
-Google OAuth Login & Signup
-Password user reset
-Welcome & Password changed email notifications
-Email template easy customizable
-SMTP Configuration
-User signup form (with Google Recaptcha => can be disabled in Admin interface)
-Free lifetime updates
-24/7 support by email, forum, comments
+<ul>
+<li>More than 2100+ Cryptocurrencies available</li>
+<li>85 Currencies supported</li>
+<li>Live trading</li>
+<li>Get your wallet balance</li>
+<li>Buy / Sell Crypto (Bitcoin, Ethereum, Litecoin) with Market &amp; Limit Mode</li>
+<li>Advanced coin page</li>
+<li>Depth Graph</li>
+<li>Order book</li>
+<li>Private Blockfolio</li>
+<li>Advanced trader chart candlesticks</li>
+<li>Technical indicators fully customizable</li>
+<li>10 technical indicators</li>
+<li>Technical indicators fully customizable (parameters, color, line)</li>
+<li>Coins history data from 1 minute to 5 months</li>
+<li>Live data</li>
+<li>Live trending on chart</li>
+<li>Detailed Market analysis</li>
+<li>News &amp; Social</li>
+<li>Watching list</li>
+<li>Heatmap</li>
+<li>Top movers</li>
+<li>Live market (sell/buy) with market balancing</li>
+<li>Calculator (Cryptocurrency &lt;==&gt; Currencies)</li>
+<li>Up to 6 charts on the dashboard</li>
+<li>9 types of dashboards available</li>
+<li>Notifications on Mobile, Browser, Windows</li>
+<li>Add notifications easy by double clicking on chart</li>
+<li>Notifications center in Krypto</li>
+<li>Subscriptions</li>
+<li>Credit card payment gateway (Stripe)</li>
+<li>Paypal payment</li>
+<li>Customize plans</li>
+<li>Free trial time configuration</li>
+<li>Fully responsive (Mobile, Tablet) and optimized look-alike application on mobile</li>
+<li>Advanced Admin pannel</li>
+<li>Google Analytics easy setup</li>
+<li>Multi-languages ready</li>
+<li>6 Languages already translated (English, French, Russian, Chinese, Latvian, German)</li>
+<li>SHA512 Security encryption</li>
+<li>Google Authenticator</li>
+<li>Google OAuth Login &amp; Signup</li>
+<li>Password user reset</li>
+<li>Welcome &amp; Password changed email notifications</li>
+<li>Email template easy customizable</li>
+<li>SMTP Configuration</li>
+<li>User signup form (with Google Recaptcha =&gt; can be disabled in Admin interface)</li>
+<li>Free lifetime updates</li>
+<li>24/7 support by email, forum, comments</li>
+</ul>
 <hr>
 
 # Server requirements
