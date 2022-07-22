@@ -54,10 +54,12 @@
 <hr>
 
 # Server requirements
-PHP 5.6 or more
-PHP Extensions : CURL, PDO, OpenSSL
-VPS / Dedicated server is optional but recommended (else if the script can be slow)
-allow_url_fopen need to be On
+<ul>
+<li>PHP 5.6 or more</li>
+<li>PHP Extensions : CURL, PDO, OpenSSL</li>
+<li>VPS / Dedicated server is <strong>optional</strong> but <strong>recommended</strong> (else if the script can be slow)</li>
+<li>allow_url_fopen need to be <strong>On</strong></li>
+</ul>
 <hr>
 
 
